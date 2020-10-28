@@ -1,2 +1,2 @@
-# Project-21
-Creating a code with bullets
+# staticSquare
+A static square made using Matter.js physics engine
